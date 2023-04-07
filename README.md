@@ -1,4 +1,4 @@
-# CSE613 HW1
+# CSE613
 
 ## Build
 Input size can be specified as environment variable DIMSIZE, the minimum size of matrix to be computed serially is specified as THRESHOLD <br>
